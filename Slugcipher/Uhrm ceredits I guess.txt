@@ -1,0 +1,5 @@
+Encode and Decode code for Slugcipher Translator made by TiMoFey,
+Slugcipher Translator GUI made by Bain/Random Rat,
+Sligcipher Language developed by Bain/Random Rat and Jestre,
+
+Hope you have fun with this silly language lol
